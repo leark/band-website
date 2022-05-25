@@ -1,0 +1,23 @@
+img {
+  width: 200px;
+  height: auto;
+  float: left;
+  margin-right: 5px;
+}
+
+.sidebar {
+  float: right;
+  
+}
+
+h1 {
+  font-style: italic;
+}
+
+p.warning {
+  color: red;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+  text-indent: 40px;
+}
